@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.exe
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.deps.json
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.runtimeconfig.json
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.dll
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\ref\maioremenornum.dll
+C:\Users\Dev\Desktop\maioremenornum\bin\Debug\net5.0\maioremenornum.pdb
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.AssemblyInfo.cs
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.dll
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\ref\maioremenornum.dll
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.pdb
+C:\Users\Dev\Desktop\maioremenornum\obj\Debug\net5.0\maioremenornum.genruntimeconfig.cache
